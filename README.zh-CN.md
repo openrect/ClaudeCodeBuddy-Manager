@@ -7,7 +7,7 @@
 ## 支持平台
 
 - Windows：`dist/Window/ClaudeCodeBuddy-Manager-win-x64.exe`
-- macOS：`dist/MacOS/ClaudeBuddyManager.app`
+- macOS：`dist/MacOS/ClaudeBuddyManager-macos.zip`
 
 ## 使用方式
 
@@ -19,9 +19,9 @@
 
 ### macOS
 
-1. 打开 `dist/MacOS/ClaudeBuddyManager.app`
-2. 完成筛选条件
-3. 点击应用按钮写入配置
+1. 下载并解压 `dist/MacOS/ClaudeBuddyManager-macos.zip`
+2. 打开 `ClaudeBuddyManager.app`
+3. 完成筛选条件并点击应用按钮写入配置
 
 ## 界面截图
 ![主界面](./assets/images/main.png)

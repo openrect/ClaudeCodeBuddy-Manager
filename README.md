@@ -7,7 +7,7 @@ A desktop pet selector for Claude Code. Pick pet species, rarity, and appearance
 ## Platforms
 
 - Windows: `dist/Window/ClaudeCodeBuddy-Manager-win-x64.exe`
-- macOS: `dist/MacOS/ClaudeBuddyManager.app`
+- macOS: `dist/MacOS/ClaudeBuddyManager-macos.zip`
 
 ## Usage
 
@@ -19,9 +19,9 @@ A desktop pet selector for Claude Code. Pick pet species, rarity, and appearance
 
 ### macOS
 
-1. Open `dist/MacOS/ClaudeBuddyManager.app`
-2. Complete your filter selection
-3. Click apply to write config
+1. Download and unzip `dist/MacOS/ClaudeBuddyManager-macos.zip`
+2. Open `ClaudeBuddyManager.app`
+3. Complete your filter selection and click apply
 
 ## Screenshots
 
