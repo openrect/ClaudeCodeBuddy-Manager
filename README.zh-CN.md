@@ -18,14 +18,14 @@
 .
 ├─ buddy_desktop_app.py
 └─ dist/
-   └─ ClaudeCodeBuddy-Manager.exe
+   └─ ClaudeCodeBuddy-Manager-win-x64.exe
 ```
 
 ## 使用方式（Windows）
 
 ### 方式 1：直接运行可执行文件
 
-1. 打开 `dist/ClaudeCodeBuddy-Manager.exe`
+1. 打开 `dist/ClaudeCodeBuddy-Manager-win-x64.exe`
 2. 完成筛选条件
 3. 点击应用按钮写入配置
 

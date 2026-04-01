@@ -18,14 +18,14 @@ A desktop tool (Tkinter) for filtering buddy records, generating a `userId`, and
 .
 ├─ buddy_desktop_app.py
 └─ dist/
-   └─ ClaudeCodeBuddy-Manager.exe
+   └─ ClaudeCodeBuddy-Manager-win-x64.exe
 ```
 
 ## Usage (Windows)
 
 ### Option 1: Run the executable
 
-1. Open `dist/ClaudeCodeBuddy-Manager.exe`
+1. Open `dist/ClaudeCodeBuddy-Manager-win-x64.exe`
 2. Complete your filter selection
 3. Click apply to write config
 
