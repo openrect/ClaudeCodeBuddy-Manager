@@ -2,13 +2,24 @@
 
 [中文说明](./README.zh-CN.md)
 
-A desktop tool (Tkinter) for filtering buddy records, generating a `userId`, and applying it to `.claude.json` with one click.
+A desktop pet selector for Claude Code. Pick pet species, rarity, and appearance in a visual UI, then generate and apply the matching `userId` to `.claude.json` with one click.
 
-## Usage (Windows)
+## Platforms
 
-### Option 1: Run the executable
+- Windows: `dist/Window/ClaudeCodeBuddy-Manager-win-x64.exe`
+- macOS: `dist/MacOS/ClaudeBuddyManager.app`
 
-1. Open `dist/ClaudeCodeBuddy-Manager-win-x64.exe`
+## Usage
+
+### Windows
+
+1. Open `dist/Window/ClaudeCodeBuddy-Manager-win-x64.exe`
+2. Complete your filter selection
+3. Click apply to write config
+
+### macOS
+
+1. Open `dist/MacOS/ClaudeBuddyManager.app`
 2. Complete your filter selection
 3. Click apply to write config
 
