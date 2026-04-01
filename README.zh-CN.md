@@ -12,6 +12,11 @@
 - 一键应用到 `.claude.json`（更新 `userID` 并移除 `companion`）
 - 内置多语言界面（含中文）
 
+## 界面截图
+
+![主界面](./assets/images/main.png)
+![主界面-筛选示例](./assets/images/main2.png)
+
 ## 项目结构
 
 ```text

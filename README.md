@@ -12,6 +12,12 @@ A desktop tool (Tkinter) for filtering buddy records, generating a `userId`, and
 - One-click apply to `.claude.json` (updates `userID` and removes `companion`)
 - Multi-language UI support (including Chinese)
 
+## Screenshots
+
+![Main UI](./assets/images/main.png)
+![Main UI - Selection](./assets/images/main2.png)
+![Main UI - Selection](./assets/images/main3.png)
+
 ## Project Structure
 
 ```text
