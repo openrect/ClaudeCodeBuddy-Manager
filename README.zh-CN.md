@@ -1,4 +1,4 @@
-# ClaudeCodeBuddy Manager
+# claude-buddy-mgr
 
 [English README](./README.md)
 

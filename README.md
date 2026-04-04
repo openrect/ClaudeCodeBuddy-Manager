@@ -1,4 +1,4 @@
-# ClaudeCodeBuddy Manager
+# claude-buddy-mgr
 
 [中文说明](./README.zh-CN.md)
 
